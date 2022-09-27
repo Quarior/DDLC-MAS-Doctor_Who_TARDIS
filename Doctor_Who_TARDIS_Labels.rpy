@@ -182,5 +182,5 @@ label TARDIS_mas_background_change(new_bg, skip_leadin=False, skip_transition=Tr
     return
 
 label TARDIS_console_room_time_travel:
-    m 3ekb "I'm sorry [player], but the time travel is disable.\nI think I should disable the button."
+    m 3ekb "I'm sorry [player], but time travel is disabled.\nI think I should disable this button."
     return
