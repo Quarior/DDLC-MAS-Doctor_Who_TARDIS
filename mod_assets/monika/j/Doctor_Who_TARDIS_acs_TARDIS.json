@@ -1,0 +1,16 @@
+{
+    "__author": "Quarior",
+    "version": 1,
+    "type": 0,
+    "name": "Doctor_Who_TARDIS_acs-TARDIS-0",
+    "img_sit": "Doctor_Who_TARDIS_TARDIS",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 7,
+    "stay_on_start": false,
+    "dlg_desc": "A space-time travel machine",
+    "dlg_plural": false,
+    "giftname": "tardis"
+}
